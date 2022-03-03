@@ -1,0 +1,24 @@
+{
+  "name": "exercise",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phong-utm/exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phong-utm/exercise/issues"
+  },
+  "homepage": "https://github.com/phong-utm/exercise#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "prettier": "^2.5.1"
+  }
+}
